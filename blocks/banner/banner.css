@@ -1,0 +1,23 @@
+.banner-block {
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-radius: 8px;
+  }
+  
+  .banner-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+    flex-grow: 1;
+  }
+  
+  .banner-image {
+    max-width: 250px;
+    max-height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+  
